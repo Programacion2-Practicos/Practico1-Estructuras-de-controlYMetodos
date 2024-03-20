@@ -3,13 +3,13 @@
 ## En Eclipse:
 #### Realice un proyecto llamado **Practico1a**
 #### Agregue un paquete llamado *paquete*
-#### Cree una clase llamada *Main* . Dejo su código  [aquí](src/ejer1/Main.java) desde donde podra completar y ejecutar los  requerimientos de éste proyecto  
+#### Cree una clase llamada *Main* . Dejo su código  [aquí](src/paquete/Main.java) desde donde podra completar y ejecutar los  requerimientos de éste proyecto  
  
 ### IMPORTANTE:  En onlineGDB, no podemos crear paquetes, por lo tanto cuando suba sus archivos a onlineGDB deje comentada la primera línea de cada archivo (package paquete;)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Ejercicio 1 (Scanner): En *paquete* crear:
 
-#### - Una clase llamada *Programa1*, donde realice un programa que utilice métodos para **cargar**  e **imprimir** información sobre una persona: Apellido (String), edad (int), altura (double) y cédula (int). Dejo su código para completar   [aquí](src/ejer1/Programa1.java)
+#### - Una clase llamada *Programa1*, donde realice un programa que utilice métodos para **cargar**  e **imprimir** información sobre una persona: Apellido (String), edad (int), altura (double) y cédula (int). Dejo su código para completar   [aquí](src/paquete/Programa1.java)
  
 ## Ejercicio 2 (Random):  En *paquete* crear:
 
@@ -21,7 +21,7 @@
 
 	• El programa finaliza con el mensaje “Felicitaciones, acertó el número”.
 
-Dejo su código para completar   [aquí](src/ejer2/Programa.java)
+Dejo su código para completar   [aquí](src/paquete/Programa2.java)
  
 	
 ## Ejercicio 3 (String):   En *paquete* crear:
@@ -36,7 +36,7 @@ Dejo su código para completar   [aquí](src/ejer2/Programa.java)
 	0. Salir
 
 Deberá investigar en la API de Java u otro sitio web acerca de los métodos de la clase String.
-Dejo su código para completar   [aquí](src/ejer3/Programa.java)
+Dejo su código para completar   [aquí](src/paquete/Programa3.java)
 
 ## Ejercicio 4 (Math):   En *paquete* crear:
 #### - Una clase llamada *Programa4*, donde realice un programa que:
@@ -50,7 +50,7 @@ Dejo su código para completar   [aquí](src/ejer3/Programa.java)
   		0. Salir
   
 		Deberá investigar en la API de Java u otro sitio web acerca de los métodos de la clase Math.
-  Dejo su código para completar   [aquí](src/ejer4/Programa.java)
+  Dejo su código para completar   [aquí](src/paquete/Programa4.java)
  
 
 

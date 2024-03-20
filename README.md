@@ -1,21 +1,19 @@
-# Practico1: Estructuras de control
+# Practico1: Estructuras de control y Métodos
 
 ## En Eclipse:
-#### Realice un proyecto llamado **Practico1**
+#### Realice un proyecto llamado **Practico1a**
 #### Agregue un paquete llamado *paquete*
 #### Cree una clase llamada *Main* . Dejo su código  [aquí](src/ejer1/Main.java) desde donde podra completar y ejecutar los  requerimientos de éste proyecto  
  
-### IMPORTANTE:  En onlineGDB, no podemos crear paquetes, por lo tanto cuando suba sus archivos a onlineGDB deje comentada la primera línea de cada archivo
+### IMPORTANTE:  En onlineGDB, no podemos crear paquetes, por lo tanto cuando suba sus archivos a onlineGDB deje comentada la primera línea de cada archivo (package paquete;)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Ejercicio 1 (Scanner): En *paquete* crear:
 
 #### - Una clase llamada *Programa1*, donde realice un programa que utilice métodos para **cargar**  e **imprimir** información sobre una persona: Apellido (String), edad (int), altura (double) y cédula (int). Dejo su código para completar   [aquí](src/ejer1/Programa1.java)
  
- 
+## Ejercicio 2 (Random):  En *paquete* crear:
 
-## Ejercicio 2 (Random):  En el paquete **ejer2** crear:
-
-#### - Una clase llamada *Programa*, donde realice un programa que genere un único número aleatorio entre el 1 y el 1000 (será fijo durante la ejecución) y además sucede lo siguiente:
+#### - Una clase llamada *Programa2*, donde realice un programa que genere un único número aleatorio entre el 1 y el 1000 (será fijo durante la ejecución) y además sucede lo siguiente:
 
 	• El usuario ingresará un valor, se imprime “Demasiado grande” si el número ingresado es más grande, y “Demasiado chico”, si el número ingresado es demasiado chico.
  
@@ -25,11 +23,9 @@
 
 Dejo su código para completar   [aquí](src/ejer2/Programa.java)
  
-#### - Una clase llamada *Main* . Dejo su código  [aquí](src/ejer2/Main.java) desde donde podra descargar y ejecutar el Programa 
-
 	
-## Ejercicio 3 (String):  En el paquete **ejer3** crear:
-#### - Una clase llamada *Programa*, donde realice un programa que:
+## Ejercicio 3 (String):   En *paquete* crear:
+#### - Una clase llamada *Programa3*, donde realice un programa que:
 
 •	Cargue por teclado dos variables del tipo String y despliegue un menú con las opciones:
 
@@ -42,26 +38,20 @@ Dejo su código para completar   [aquí](src/ejer2/Programa.java)
 Deberá investigar en la API de Java u otro sitio web acerca de los métodos de la clase String.
 Dejo su código para completar   [aquí](src/ejer3/Programa.java)
 
-#### - Una clase llamada *Main* . Dejo su código  [aquí](src/ejer3/Main.java) desde donde podra descargar y ejecutar el Programa 
-
-
-## Ejercicio 4 (Math):   En el paquete **ejer4** crear:
-#### - Una clase llamada *Programa*, donde realice un programa que:
+## Ejercicio 4 (Math):   En *paquete* crear:
+#### - Una clase llamada *Programa4*, donde realice un programa que:
 •	Cargue a,b y c, tres variables del tipo double y
 
 •	Despliegue un menú con:
 
-		1. El cuadrado y la raíz cuadrada de cada valor.
-  
+		1. El cuadrado y la raíz cuadrada de cada valor  
 		2. Bhaskara utilizando ax2+ bx + c.  (ax está al cuadrado, el 2 va arriba chiquito!!!)
-  
-		3. El mayor de tres números, reutilizando el método que calcula el mayor de 2.
-  
-		0. Salir
+  		3. El mayor de tres números, reutilizando el método que calcula el mayor de 2.
+  		0. Salir
   
 		Deberá investigar en la API de Java u otro sitio web acerca de los métodos de la clase Math.
   Dejo su código para completar   [aquí](src/ejer4/Programa.java)
-  #### - Una clase llamada *Main* . Dejo su código  [aquí](src/ejer4/Main.java) desde donde podra descargar y ejecutar el Programa 
+ 
 
 
 

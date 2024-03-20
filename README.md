@@ -1,12 +1,17 @@
 # Practico1: Estructuras de control
 
-Realice un proyecto llamado **Practico1**, con cuatro paquetes, *ejer1*, *ejer2*, *ejer3* y *ejer4*.
-
-## Ejercicio 1 (Scanner): En el paquete **ejer1** crear:
-
-#### - Una clase llamada *Programa*, donde realice un programa que utilice métodos para **cargar**  e **imprimir** información sobre una persona: Apellido (String), edad (int), altura (double) y cédula (int). Dejo su código para completar   [aquí](src/ejer1/Programa.java)
+## En Eclipse:
+#### Realice un proyecto llamado **Practico1**
+#### Agregue un paquete llamado *paquete*
+#### Cree una clase llamada *Main* . Dejo su código  [aquí](src/ejer1/Main.java) desde donde podra completar y ejecutar los  requerimientos de éste proyecto  
  
-#### - Una clase llamada *Principal* . Dejo su código  [aquí](src/ejer1/Principal.java) desde donde podra descargar y ejecutar el Programa   
+### IMPORTANTE:  En onlineGDB, no podemos crear paquetes, por lo tanto cuando suba sus archivos a onlineGDB deje comentada la primera línea de cada archivo
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+## Ejercicio 1 (Scanner): En *paquete* crear:
+
+#### - Una clase llamada *Programa1*, donde realice un programa que utilice métodos para **cargar**  e **imprimir** información sobre una persona: Apellido (String), edad (int), altura (double) y cédula (int). Dejo su código para completar   [aquí](src/ejer1/Programa1.java)
+ 
+ 
 
 ## Ejercicio 2 (Random):  En el paquete **ejer2** crear:
 
@@ -20,7 +25,7 @@ Realice un proyecto llamado **Practico1**, con cuatro paquetes, *ejer1*, *ejer2*
 
 Dejo su código para completar   [aquí](src/ejer2/Programa.java)
  
-#### - Una clase llamada *Principal* . Dejo su código  [aquí](src/ejer2/Principal.java) desde donde podra descargar y ejecutar el Programa 
+#### - Una clase llamada *Main* . Dejo su código  [aquí](src/ejer2/Main.java) desde donde podra descargar y ejecutar el Programa 
 
 	
 ## Ejercicio 3 (String):  En el paquete **ejer3** crear:
@@ -37,7 +42,7 @@ Dejo su código para completar   [aquí](src/ejer2/Programa.java)
 Deberá investigar en la API de Java u otro sitio web acerca de los métodos de la clase String.
 Dejo su código para completar   [aquí](src/ejer3/Programa.java)
 
-#### - Una clase llamada *Principal* . Dejo su código  [aquí](src/ejer3/Principal.java) desde donde podra descargar y ejecutar el Programa 
+#### - Una clase llamada *Main* . Dejo su código  [aquí](src/ejer3/Main.java) desde donde podra descargar y ejecutar el Programa 
 
 
 ## Ejercicio 4 (Math):   En el paquete **ejer4** crear:
@@ -56,7 +61,7 @@ Dejo su código para completar   [aquí](src/ejer3/Programa.java)
   
 		Deberá investigar en la API de Java u otro sitio web acerca de los métodos de la clase Math.
   Dejo su código para completar   [aquí](src/ejer4/Programa.java)
-  #### - Una clase llamada *Principal* . Dejo su código  [aquí](src/ejer4/Principal.java) desde donde podra descargar y ejecutar el Programa 
+  #### - Una clase llamada *Main* . Dejo su código  [aquí](src/ejer4/Main.java) desde donde podra descargar y ejecutar el Programa 
 
 
 

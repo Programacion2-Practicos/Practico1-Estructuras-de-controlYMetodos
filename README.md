@@ -2,7 +2,7 @@
 
 ## En Eclipse:
 ![Imagen del proyecto](estructuraPrac1.png)
-#### Realice un proyecto llamado **Practico1**
+#### Realice un proyecto llamado **Practico1_Estructuras**
 #### Agregue un paquete llamado *paquete*
 #### Cree una clase llamada *Main* . Dejo su código  [aquí](src/paquete/Main.java) desde donde podra completar y ejecutar los  requerimientos de éste proyecto  
  

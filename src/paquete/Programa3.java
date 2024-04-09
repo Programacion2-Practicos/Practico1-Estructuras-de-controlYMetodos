@@ -12,7 +12,7 @@ public class Programa3 {
 		menu(or1,or2);
 	}
 	
-	//carga de teclado dos String
+	//carga de teclado un variable de tipo String
 	public String cargarString(){
 		//complete aquí-----------------------------
 	}

@@ -52,6 +52,8 @@ Dejo su código para completar   [aquí](src/paquete/Programa3.java)
   
 		Deberá investigar en la API de Java u otro sitio web acerca de los métodos de la clase Math.
   Dejo su código para completar   [aquí](src/paquete/Programa4.java)
+  Para resolver Bhaskara tenga en cuenta el siguiente diagrama de flujo
+  ![diagrama de Bhaskara](diagrama.png)
  
 
 

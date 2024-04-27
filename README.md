@@ -14,7 +14,11 @@
  
 ## Ejercicio 2 (Random):  En *paquete* crear:
 
-#### - Una clase llamada *Programa2*, donde realice un programa que genere un único número aleatorio entre el 1 y el 1000 (será fijo durante la ejecución) y el usuario ingresará un valor, se imprime en pantalla “Demasiado grande” si el número ingresado es más grande, y “Demasiado chico”, si el número ingresado es demasiado chico.El usuario deberá ingresar números hasta que coincida con el número aleatorio.El programa finalizará con el mensaje “Felicitaciones, acertó el número”.
+#### - Una clase llamada *Programa2*, donde realice un programa que genere un único número aleatorio entre el 1 y el 1000 (será fijo durante la ejecución) y el usuario ingresará un valor: 
+
+•	Se imprime en pantalla “Demasiado grande” si el número ingresado es más grande, y “Demasiado chico”, si el número ingresado es demasiado chico. 
+•	El usuario deberá ingresar números hasta que coincida con el número aleatorio.
+•	El programa finalizará con el mensaje “Felicitaciones, acertó el número”.
 
 Dejo su código para completar   [aquí](src/paquete/Programa2.java) 
 	

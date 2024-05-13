@@ -4,7 +4,7 @@
 ![Imagen del proyecto](estructuraPrac1.png)
 #### Realice un proyecto llamado **Practico1_Estructuras**
 #### Agregue un paquete llamado *paquete*
-#### Cree una clase llamada *Main* . Dejo su código  [aquí](src/paquete/Main.java) desde donde podra completar y ejecutar los  requerimientos de éste proyecto  
+#### Cree una clase llamada *Main* . Dejo su código  [aquí](src/paquete/Main.java) desde donde podrá completar y ejecutar los  requerimientos de éste proyecto  
  
 ### IMPORTANTE:  En onlineGDB, no podemos crear paquetes, por lo tanto cuando suba sus archivos a onlineGDB deje comentada la primera línea de cada archivo (package paquete;)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
